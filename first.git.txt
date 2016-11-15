@@ -1,1 +1,5 @@
 花时间学习下git。集中精力干一件事。
+
+第一次修改
+Git is a distributed version control system
+Git is free software
